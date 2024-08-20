@@ -1,0 +1,11 @@
+.dropdown-links {
+    display: none;
+}
+
+.dropdown-links a {
+    display: block;
+}
+
+.visible {
+    display: block;
+}
